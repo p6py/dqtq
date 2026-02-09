@@ -1,7 +1,7 @@
 Анализ поступления. Командный кейс №3
 
 # Установка
-```pip install -r requirements.txt```
+```bashpip install -r requirements.txt```
 
 # Запуск основной программы
 ```bash
