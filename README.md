@@ -1,7 +1,9 @@
-dqtq
+Анализ поступления. Командный кейс №3
 
 # Установка
 ```pip install -r requirements.txt```
 
-# Запуск программы
-```python app.py```
+# Запуск основной программы
+```bash
+  python app.py
+```
