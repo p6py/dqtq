@@ -1,4 +1,7 @@
 dqtq
 
+# Установка
+```pip install -r requirements.txt```
 
-```python -r requirements.txt```
+# Запуск программы
+```python app.py```
