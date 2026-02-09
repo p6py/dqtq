@@ -1,3 +1,4 @@
-# dqtq
+dqtq
 
-'''ПРИВЕТ'''
+
+```python -r requirements.txt```
