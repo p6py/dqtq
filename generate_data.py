@@ -122,3 +122,5 @@ for day in Days:
                         'ИД': entrant['ИД'],
                         'Всего': entrant['Всего']
                     })
+
+#generate data
